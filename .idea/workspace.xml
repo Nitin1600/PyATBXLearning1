@@ -83,6 +83,23 @@
     "Python.Lab043.executor": "Run",
     "Python.Lab044.executor": "Run",
     "Python.Lab044M.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab50.executor": "Run",
+    "Python.Task10.executor": "Run",
+    "Python.Task11.executor": "Run",
     "Python.Task1_tables.executor": "Run",
     "Python.Task2_Add_Sub_Str_Format.executor": "Run",
     "Python.Task4.executor": "Run",
@@ -165,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731143289587</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All the files of August_2024">
+      <option name="closed" value="true" />
+      <created>1731159226052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731159226052</updated>
+    </task>
+    <task id="LOCAL-00008" summary="All the files of August_2024">
+      <option name="closed" value="true" />
+      <created>1731159239277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731159239277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
