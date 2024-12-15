@@ -118,6 +118,80 @@
     "Python.Lab081.executor": "Run",
     "Python.Lab082.executor": "Run",
     "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab093_Miscellaneous.executor": "Run",
+    "Python.Lab093_Miscellaneous2.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
+    "Python.Lab110.executor": "Run",
+    "Python.Lab111.executor": "Run",
+    "Python.Lab112.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
+    "Python.Lab119.executor": "Run",
+    "Python.Lab120.executor": "Run",
+    "Python.Lab121.executor": "Run",
+    "Python.Lab122.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125.executor": "Run",
+    "Python.Lab126.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab128.executor": "Run",
+    "Python.Lab129.executor": "Run",
+    "Python.Lab130.executor": "Run",
+    "Python.Lab131.executor": "Run",
+    "Python.Lab132.executor": "Run",
+    "Python.Lab133.executor": "Run",
+    "Python.Lab134.executor": "Run",
+    "Python.Lab135.executor": "Run",
+    "Python.Lab136.executor": "Run",
+    "Python.Lab137.executor": "Run",
+    "Python.Lab138.executor": "Run",
+    "Python.Lab139.executor": "Run",
+    "Python.Lab140.executor": "Run",
+    "Python.Lab141.executor": "Run",
+    "Python.Lab142.executor": "Run",
+    "Python.Lab143.executor": "Run",
+    "Python.Lab144.executor": "Run",
+    "Python.Lab145.executor": "Run",
+    "Python.Lab146.executor": "Run",
+    "Python.Lab147.executor": "Run",
+    "Python.Lab148.executor": "Run",
+    "Python.Lab149.executor": "Run",
+    "Python.Lab150.executor": "Run",
+    "Python.Lab152.executor": "Run",
+    "Python.Lab153.executor": "Run",
+    "Python.Lab154.executor": "Run",
+    "Python.Lab155.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
+    "Python.Lab158.executor": "Run",
+    "Python.Lab159.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab161.executor": "Run",
+    "Python.Lab162.executor": "Run",
+    "Python.Lab163.executor": "Run",
+    "Python.Lab165.executor": "Run",
     "Python.Lab50.executor": "Run",
     "Python.Lab65.executor": "Run",
     "Python.Lab66.executor": "Run",
@@ -142,8 +216,8 @@
       <recent name="C:\Users\nitingpa\PycharmProjects\PyATB4XLearning1\src\August" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab083">
-    <configuration name="Lab079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab166">
+    <configuration name="Lab161" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4XLearning1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/August/ex_27082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_10092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/August/ex_27082024/Lab079.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_10092024/Lab161.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab162" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4XLearning1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/August/ex_27082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_10092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/August/ex_27082024/Lab080.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_10092024/Lab162.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab163" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4XLearning1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/August/ex_27082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_10092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/August/ex_27082024/Lab081.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_10092024/Lab163.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab165" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4XLearning1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/August/ex_27082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_10092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/August/ex_27082024/Lab082.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_10092024/Lab165.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab083" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4XLearning1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/August/ex_27082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/September/ex_10092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/August/ex_27082024/Lab083.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/September/ex_10092024/Lab166.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab083" />
-        <item itemvalue="Python.Lab082" />
-        <item itemvalue="Python.Lab081" />
-        <item itemvalue="Python.Lab080" />
-        <item itemvalue="Python.Lab079" />
+        <item itemvalue="Python.Lab166" />
+        <item itemvalue="Python.Lab165" />
+        <item itemvalue="Python.Lab163" />
+        <item itemvalue="Python.Lab162" />
+        <item itemvalue="Python.Lab161" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731235106337</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="All the files of August_2024">
+      <option name="closed" value="true" />
+      <created>1733769562745</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733769562745</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
